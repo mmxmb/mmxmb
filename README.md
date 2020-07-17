@@ -1,4 +1,4 @@
-![Ghost in the Shell: Typing](ghost_in_the_shell_typing.gif)
+![Ghost in the Shell: Typing](mmxmb/mmxmb/blob/master/ghost_in_the_shell_typing.gif)
 
 <!--
 **mmxmb/mmxmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
