@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="ghost_in_the_shell_typing.gif" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/mmxmb/mmxmb/master/ghost_in_the_shell_typing.gif" />
 
 <!--
 **mmxmb/mmxmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
